@@ -19,7 +19,7 @@
 - Started as the **first on-site IT**, then built & led a local team of 9  
 - Supported 500+ users with a 95% satisfaction rate  
 - Coordinated with international contractors to build 50-hectare factory infrastructure  
-- Streamlined IT delivery using project management methods and proactive monitoring
+- Optimized IT support by introducing clear task management and proactive system checks
 
 ### 🌐 Yunet International – L1 Support → Coordinator for Fiber Projects (2016–2023)
 - Grew from L1 Support to division coordinator managing 40+ field engineers  
