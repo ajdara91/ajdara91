@@ -74,7 +74,7 @@ I’m driven by curiosity and always learning:
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/ajdaric)  
+- 🌐 [LinkedIn] www.linkedin.com/in/ajdaric
 
 ---
 
