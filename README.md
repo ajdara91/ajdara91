@@ -3,6 +3,7 @@
 🎯 **IT & Telecom Infrastructure Leader** | Serbia-based | 10+ years of experience  
 💡 Passionate about **people-first leadership**, scalable infrastructure, and bridging Telco-grade rigor with modern IT delivery  
 🧠 Known for building and motivating high-performing teams that deliver under pressure  
+⚡ Advanced my career by stepping up **when others stepped back** — ownership, risk, and results.
 🧗‍♂️ **Lifelong learner**, pushing boundaries and currently diving into **AI & intelligent automation**
 
 ---
