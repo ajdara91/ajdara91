@@ -18,8 +18,9 @@
 
 ### 🏭 Minth Automotive Europe – IT Specialist, Global IT Shared Service Center (2023–2024)
 - **First on-site IT** at a 50-hectare greenfield factory; built full IT infra with domestic & international vendors  
-- Supported **500+** users (95% satisfaction), then formed & led a **local IT team of 9**  
+- Supported **500+** users onsite and 200 in CEE region, then formed & led a **local IT team of 9**  
 - Introduced proactive monitoring & task management; **~15% faster** delivery
+- Achieved a 95% ticket satisfaction rate.
 
 ### 🌐 YUnet International – L1 Support → Coordinator for Fiber Projects (2016–2023)
 - Grew from L1 Support to **Coordinator for Fiber Projects**, managing **2 project clusters** across cities  
