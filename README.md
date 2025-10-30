@@ -10,7 +10,7 @@
 
 ## 💼 Career at a Glance
 
-### 🔌 Orion Telekom – Director of Telecom Infrastructure Deployment (2024–Present)
+### 🔌 Orion Telekom – Head of Infrastructure & Network Operations (2024–Present)
 - Leading nationwide Fiber & Wi-Fi (5/6E) deployments (**80,000+ HomePassed**)  
 - Managing a cross-functional team of **100+** engineers and project staff  
 - Boosted KPI achievement and motivation via **OKR tracking** and smart delegation  
